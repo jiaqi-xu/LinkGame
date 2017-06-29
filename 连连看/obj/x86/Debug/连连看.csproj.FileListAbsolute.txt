@@ -1,0 +1,17 @@
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\bin\Debug\连连看.exe
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\bin\Debug\连连看.pdb
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\obj\x86\Debug\连连看.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\obj\x86\Debug\连连看.exe
+c:\users\asus\documents\visual studio 2010\Projects\连连看\连连看\obj\x86\Debug\连连看.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\连连看\连连看\obj\x86\Debug\连连看.Form1.resources
+E:\连连看\连连看\obj\x86\Debug\连连看.pdb
+E:\连连看\连连看\bin\Debug\连连看.exe
+E:\连连看\连连看\bin\Debug\连连看.pdb
+E:\连连看\连连看\obj\x86\Debug\连连看.csprojResolveAssemblyReference.cache
+E:\连连看\连连看\obj\x86\Debug\连连看.Form1.resources
+E:\连连看\连连看\obj\x86\Debug\连连看.Properties.Resources.resources
+E:\连连看\连连看\obj\x86\Debug\连连看.csproj.GenerateResource.Cache
+E:\连连看\连连看\obj\x86\Debug\连连看.exe
